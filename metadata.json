@@ -1,0 +1,6 @@
+{
+  "name": "Aditi Ortho, Physio & Pain Center",
+  "description": "Premium orthopedic, physiotherapy, and pain management clinic in Tumakuru, Karnataka. Offering expert musculoskeletal care, rehabilitation, and 24/7 patient support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
